@@ -15,6 +15,10 @@
             	id="gapps"
             	title="Gapps"
             	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/banks_gapps/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+	       <XDAUrl 
+	       id="xda" 
+	       title="Join the XDA Thread for the FIND7" 
+	       description="Visit the XDA thread for this release of Resurrection Remix">http://forum.xda-developers.com/find-7/find7-development/rom-resurrection-remix-oppo-find7-t3428440</XDAUrl>
 	</find7s>
 	    </Stable>
 </SlimOTA>
