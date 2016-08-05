@@ -13,8 +13,8 @@
                 description="View the official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
              <BanksGappsUrl
             	id="gapps"
-            	title="GApps"
-            	description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/gapps/Banks/banks_dynamic_gapps-6.x.x-20160729.zip</BanksGappsUrl>
+            	title="Download BaNkS latest GApps (~>350MB)"
+            	description="Depending on your speed this may take a while...pls be patient">http://download.dirtyunicorns.com/files/gapps/Banks/banks_dynamic_gapps-6.x.x-20160729.zip</BanksGappsUrl>
 	       <XDAUrl 
 	       id="xda" 
 	       title="Join Opposeeker's Thread for the FIND7" 
