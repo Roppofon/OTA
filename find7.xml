@@ -10,7 +10,7 @@
         
             <RomUrl
                 id="rom"
-                title="NEW ROM UPDATES (EXPERIMENTAL)"
+                title="Previous ROM builds (EXPERIMENTAL)"
                 description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=85159</RomUrl>
     
             <ChangelogUrl
