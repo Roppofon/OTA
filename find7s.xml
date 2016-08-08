@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-    	<find7s>
-            <Filename>ResurrectionRemix-M-v5.7.2-20160802-find7s-UNOFFICIAL.zip</Filename>
-            <RomUrl
-                id="rom"
-                title="NEW ROM UPDATES (EXPERIMENTAL)"
-                description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24665539028713694</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View the official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
-             <BanksGappsUrl
-            	id="gapps"
-            	title="Download BaNkS latest GApps (~>350MB)"
-            	description="Depending on your speed this may take a while...pls be patient">http://download.dirtyunicorns.com/files/gapps/Banks/banks_dynamic_gapps-6.x.x-20160729.zip</BanksGappsUrl>
-	       <XDAUrl 
-	       id="xda" 
-	       title="Join Opposeeker's Thread for the FIND7" 
-	       description="Visit the XDA-thread for this device and become involved!">http://forum.xda-developers.com/find-7/find7-development/rom-resurrection-remix-oppo-find7-t3428440</XDAUrl>
-	</find7s>
+    	
 	    </Stable>
 </SlimOTA>
