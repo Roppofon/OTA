@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160808-find7s-UNOFFICIAL2.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160809-find7s-UNOFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
-                title="LATEST ROM UPDATE (EXPERIMENTAL)"
-                description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24591000424953274</RomUrl>
+                title="LATEST ROM Update (09 Aug 16) (EXPERIMENTAL)"
+                description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24671318762848546</RomUrl>
         <Rom2Url
                 id="rom2"
                 title="Previous ROM builds (EXPERIMENTAL)"
@@ -26,7 +26,7 @@
 	<DonateUrl 
 	       id="donate" 
 	       title="Donate to Opposeeker" 
-	       description="...via Paypal">https://paypal.me/opposeeker</DonateUrl>
+	       description="Donate to Opposeeker with just one click...">https://paypal.me/opposeeker</DonateUrl>
 	</find7s>
     </Stable>
 </SlimOTA>
