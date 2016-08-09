@@ -14,7 +14,7 @@
          <Rom2Url
                 id="rom2"
                 title="Previous ROM builds (EXPERIMENTAL)"
-                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=85159</Rom2Url>
+                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=filesflid=85159</Rom2Url>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
