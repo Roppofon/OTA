@@ -2,24 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-            <Filename>ResurrectionRemix-M-v5.7.2-20160804-find7s-UNOFFICIAL.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160808-find7s-UNOFFICIAL2.zip</Filename>
             <BuildUrl
                 id="build"
                 title="LATEST ROM UPDATE (EXPERIMENTAL)"
-                description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24665539028713694</BuildUrl>
-        
+                description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24591000424953274</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Previous ROM builds (EXPERIMENTAL)"
                 description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=85159</RomUrl>
-    
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View the latest official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
-           
-             
-             <BanksGappsUrl
+                description="View the latest official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>             <BanksGappsUrl
             	id="gapps"
             	title="Download BaNkS latest GApps (~>350MB)"
             	description="Depending on your speed this may take a while...pls be patient">https://www.androidfilehost.com/?fid=24671318762848421</BanksGappsUrl>
