@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160809-find7s-UNOFFICIAL2.zip</Filename>
+            <Filename>cm_find7s-ota-19a8c5d614.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LATEST ROM Update (EXPERIMENTAL)"
