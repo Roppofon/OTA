@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-            <Filename> cm_find7s-ota-19a8c5d614_update.zip</Filename>
+            <Filename>cm_find7s-ota-19a8c5d614_update.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LATEST ROM Update (EXPERIMENTAL)"
