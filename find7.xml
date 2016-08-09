@@ -11,6 +11,10 @@
             	id="open_gapps"
             	title="Open -- Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+         <Rom2Url
+                id="rom2"
+                title="Previous ROM builds (EXPERIMENTAL)"
+                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=85159</Rom2Url>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -23,6 +27,10 @@
 	       id="xda" 
 	       title="Join Opposeeker's Thread for the FIND7" 
 	       description="Visit the XDA-thread for this device and become involved!">http://forum.xda-developers.com/find-7/find7-development/rom-resurrection-remix-oppo-find7-t3428440</XDAUrl>
+		<DonateUrl 
+	       id="donate" 
+	       title="Donate to Opposeeker" 
+	       description="...via Paypal">https://paypal.me/opposeeker</DonateUrl>
 	</find7s>
-	    </Stable>
+    </Stable>
 </SlimOTA>
