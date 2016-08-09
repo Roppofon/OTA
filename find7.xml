@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-            <Filename>cm_find7s-ota-19a8c5d614.zip</Filename>
+            <Filename> cm_find7s-ota-19a8c5d614_update.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LATEST ROM Update (EXPERIMENTAL)"
-                description="(09 Aug 16) ">https://www.androidfilehost.com/?fid=24671318762848546</RomUrl>
+                description="(09 Aug 16) ">https://www.androidfilehost.com/?fid=24671318762848563</RomUrl>
         <Rom2Url
                 id="rom2"
                 title="Previous ROM builds (EXPERIMENTAL)"
