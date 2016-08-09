@@ -7,10 +7,6 @@
                 id="rom"
                 title="LATEST ROM UPDATE (EXPERIMENTAL)"
                 description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24591000424953274</RomUrl>
-            <BuildUrl
-                id="build"
-                title="Previous ROM builds (EXPERIMENTAL)"
-                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=85159</BuildUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
