@@ -3,14 +3,14 @@
     <Stable>
     	<find7s>
             <Filename>ResurrectionRemix-M-v5.7.3-20160808-find7s-UNOFFICIAL2.zip</Filename>
-            <BuildUrl
+            <RomUrl
                 id="build"
                 title="LATEST ROM UPDATE (EXPERIMENTAL)"
-                description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24591000424953274</BuildUrl>
-            <RomUrl
+                description="Download Resurrection Remix (OTA) builds">https://www.androidfilehost.com/?fid=24591000424953274</RomUrl>
+            <BuildUrl
                 id="rom"
                 title="Previous ROM builds (EXPERIMENTAL)"
-                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=85159</RomUrl>
+                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&flid=85159</BuildUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
