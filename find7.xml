@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-    	<find7>
+    	<find7s>
              <Filename>ResurrectionRemix-M-v5.7.3-20160819-find7s.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LATEST ROM Update EXPERIMENTAL"
                 description="19 Aug 16 O2nd">http://www.idential.de/RRM/</RomUrl>
-        </find7>
+        </find7s>
     </Stable>
 </SlimOTA>
