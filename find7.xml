@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="LATEST ROM Update EXPERIMENTAL"
-                description="19 Aug 16 3rd">https://basketbuild.com/devs/resurrectionremix/Find7s</RomUrl>
+                description="19 Aug 16 3rd">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/Find7s/ResurrectionRemix-M-v5.7.3-20160819-find7s.zip</RomUrl>
         </find7s>
     </Stable>
 </SlimOTA>
