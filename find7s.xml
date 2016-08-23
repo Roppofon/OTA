@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+    	<find7s>
+             <Filename>ResurrectionRemix-M-v5.7.3-20160823-find7s.zip</Filename>
+        <RomUrl
+                id="rom"
+                title="LATEST ROM Update Find7s EXPERIMENTAL - 22nd Edition"
+                description="23 Aug 16 6th">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/Find7s/ResurrectionRemix-M-v5.7.3-20160823-find7s.zip</RomUrl>
+        </find7s>
+    </Stable>
+</SlimOTA>
