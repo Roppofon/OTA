@@ -7,6 +7,26 @@
                 id="rom"
                 title="LATEST ROM Update Find7s EXPERIMENTAL - 22nd Edition"
                 description="23 Aug 16 6th">https://basketbuild.com/filedl/devs?dev=resurrectionremix&amp;dl=resurrectionremix/Find7s/ResurrectionRemix-M-v5.7.3-20160823-find7s.zip</RomUrl>
-        </find7s>
+                <Rom2Url
+                id="rom2"
+                title="Previous ROM builds (EXPERIMENTAL)"
+                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?w=files&amp;flid=85159</Rom2Url>
+        <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View the latest official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>
+        <BanksGappsUrl
+            	id="gapps"
+            	title="Download BaNkS latest GApps (~>350MB)"
+            	description="Depending on your speed this may take a while...pls be patient">https://www.androidfilehost.com/?fid=24671318762848421</BanksGappsUrl>
+	       <XDAUrl 
+	id="xda" 
+	       title="Join Opposeeker's Thread for the FIND7" 
+	       description="Visit the XDA-thread for this device and become involved!">http://forum.xda-developers.com/find-7/find7-development/rom-resurrection-remix-oppo-find7-t3428440</XDAUrl>
+	<DonateUrl 
+	       id="donate" 
+	       title="Donate to Opposeeker" 
+	       description="Donate to Opposeeker with just one click...">https://paypal.me/opposeeker</DonateUrl>
+	</find7s>
     </Stable>
 </SlimOTA>
