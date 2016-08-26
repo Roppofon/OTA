@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
-             <Filename>ResurrectionRemix-M-v5.7.3-20160827-find7s.zip</Filename>
+    	    <InfoUrl
+                id="info"
+         	title="This is a complementary INFO"
+        	description=""></InfoUrl>
+        <Filename>ResurrectionRemix-M-v5.7.3-20160827-find7s.zip</Filename>
         <RomUrl
                 id="rom"
                 title="LATEST ROM Update Find7s EXPERIMENTAL"
                 description="This is only a DUMMY - do NOT use!!">http://conf.idential.de/rr/ResurrectionRemix-M-v5.7.3-20160827-find7s.zip</RomUrl>
-        <InfoUrl
-                id="info"
-        	title="This is a complementary INFO"
-        	description=""></InfoUrl>
         <XDAUrl 
 	       id="xda" 
 	       title="Join Opposeeker's Thread for the FIND7" 
