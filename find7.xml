@@ -10,7 +10,7 @@
         <InfoUrl
                 id="info"
         	title="This is a complementary head"
-        	description="This is a complementary text"></InfoUrl>
+        	description=""></InfoUrl>
         <XDAUrl 
 	       id="xda" 
 	       title="Join Opposeeker's Thread for the FIND7" 
