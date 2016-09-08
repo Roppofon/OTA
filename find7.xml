@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
     	<find7s>
+    		<Filename>ResurrectionRemix-M-v5.7.3-20160908-find7s.zip</Filename>
     	    <InfoUrl
                 id="info"
-         	title="08-Sep-16 LATEST ROM Update 5.7.3 w latest Security Patch _r66 (361 MB)"
+         	title="08-Sep-16 RR Update 5.7.3 w latest Security Patch _r66 (361 MB)"
         	description="CLEAN INSTALL strongly recommended due to new security patches included!">https://www.androidfilehost.com/?fid=24591000424963906</InfoUrl>
-        <Filename>ResurrectionRemix-M-v5.7.3-20160908-find7s.zip</Filename>
-        <RomUrl
-                id="rom"
-                title="LATEST ROM Update Find7s DUMMY"
-                description="This is only a DUMMY - do NOT use!!">http://conf.idential.de/rr/ResurrectionRemix-M-v5.7.3-20160827-find7s.zip</RomUrl>
+           <Rom2Url
+                id="rom2"
+                title="08-Aug-16 Previous ROM build 5.7.3"
+                description="Previous Resurrection Remix builds">https://www.androidfilehost.com/?fid=24591000424953099</Rom2Url>
         <XDAUrl 
 	       id="xda" 
 	       title="Join Opposeeker's Thread for the FIND7" 
