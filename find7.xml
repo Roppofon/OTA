@@ -15,7 +15,10 @@
                 id="changelog"
                 title="Changelog"
                 description="View the latest official changelog of Resurrection Remix">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/marshmallow/CHANGELOG.mkdn</ChangelogUrl>   
-                
+        <BanksGappsUrl
+            	id="gapps"
+            	title="Download BaNkS latest GApps (now significant smaller (<280MB)"
+            	description="Depending on your speed this may take a while...pls be patient">https://www.androidfilehost.com/?fid=24694152805484923</BanksGappsUrl>        
         <XDAUrl 
 	       id="xda" 
 	       title="Join Opposeeker's Thread for the FIND7" 
